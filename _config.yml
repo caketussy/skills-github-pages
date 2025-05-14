@@ -1,4 +1,10 @@
 theme: minima
 title: caketussy®
 author: made by [leo](https://www.linkedin.com/in/leonardogenero/)
+baseurl: "/skills-github-pages"
+url: "https://caketussy.github.io"
+permalink: pretty
 description: a simple showcase of our products
+social_links:
+  instagram: https://instagram.com/caketussy
+  github: https://github.com/caketussy

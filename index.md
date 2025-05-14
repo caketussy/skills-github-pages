@@ -1,4 +1,4 @@
 ---
 title: Caketussy's Showcase
 ---
-This is a licra and this is a hat. Enjoy!
+This is a fresh licra and this is a cool hat. Enjoy!

@@ -1,4 +1,4 @@
 ---
-title: Licre OG
+title: Homepage
 ---
-In questa sezione del nostro blog troverete tutte le licre della nostra linea originale. Per sapeere comee averle, contattateci [qui](https://www.instagram.com/caketussy)!
+In questa sezione del nostro blog troverete qualcosa prossimamente.

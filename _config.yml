@@ -1,7 +1,23 @@
 theme: minima
 title: caketussy®
 author: made by leo
+email: caketussy@gmail.com
+
 description: a simple showcase of our products
+
 social_links:
   instagram: https://instagram.com/caketussy
   github: https://github.com/caketussy
+
+header_pages:
+- about.md
+- posts.md
+- github.md
+
+footer_icons:
+- username: caketussy
+  url: https://instagram.com/caketussy
+  icon: icon-instagram.svg
+- username: aterenin/minima-reboot/
+  url: https://github.com/aterenin/minima-reboot/
+  icon: icon-github.svg

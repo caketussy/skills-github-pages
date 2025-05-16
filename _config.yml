@@ -10,9 +10,9 @@ social_links:
   github: https://github.com/caketussy
 
 header_pages:
-- about.md
-- collabs.md
 - products.md
+- collabs.md
+- about.md
 
 footer_icons:
 - username: caketussy

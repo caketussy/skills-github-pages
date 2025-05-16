@@ -21,3 +21,5 @@ footer_icons:
 - username: caketussy
   url: https://youtube.com/@Caketussy
   icon: icon-youtube.svg
+
+  paginate: 5

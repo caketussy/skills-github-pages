@@ -11,8 +11,8 @@ social_links:
 
 header_pages:
 - about.md
-- posts.md
-- github.md
+- collabs.md
+- products.md
 
 footer_icons:
 - username: caketussy

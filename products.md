@@ -6,7 +6,7 @@ In questa sezione del nostro blog troverete tutte le licre della nostra linea or
 
 {% for post in site.categories.products %}
   <div style="display: flex; align-items: center; margin-bottom: 20px;">
-    <img src="{{ post.thumbnail | prepend: site.baseurl }}" alt="{{ post.title }}" style="width: 100px; height: auto; margin-right: 20px;">
+    <img src="{% if post.thumbnail %}{{ post.thumbnail | prepend: site.baseurl }}{% else %}{{ site.baseurl }}/assets/images/default-thumb.jpg{% endif %}" alt="{{ post.title }}" style="width: 100px; height: auto; margin-right: 20px;">
     <div>
       <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
       <p>{{ post.excerpt }}</p>

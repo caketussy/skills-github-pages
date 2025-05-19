@@ -1,5 +1,5 @@
 ---
-title: Licra *"Calling Out"*
+title: Licra "Calling Out"
 date: 2025-05-15
 categories: products
 layout: post

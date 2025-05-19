@@ -8,7 +8,7 @@ thumbnail: /images/licra_pellicano_fronte.jpeg
 Licra Originale Caketussy® 2024 "Calling Out"
 
 ![Product 1]({{ site.baseurl }}/images/licra_pellicano_fronte.jpeg)
-*L’homunculus baffuto in foto é alto 1,85m e indossa una L*
+*L’homunculus baffuto in foto è alto 1,85m e indossa una L*
 
 Disponibile in taglie: S, M, L
 

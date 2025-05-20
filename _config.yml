@@ -21,9 +21,9 @@ header_pages:
 footer_icons:
 - username: caketussy
   url: https://instagram.com/caketussy
-  icon: iamges/icon-instagram.svg
+  icon: assets/images/icon-instagram.svg
 - username: caketussy
   url: https://youtube.com/@Caketussy
-  icon: images/icon-youtube.svg
+  icon: assets/images/icon-youtube.svg
 
   paginate: 5

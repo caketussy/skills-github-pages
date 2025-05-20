@@ -7,7 +7,7 @@ thumbnail: /images/licra-cavalluccio-fronte.jpeg
 ---
 Licra Originale Caketussy® 2024 (1/3)
 
-| <img src="{{ site.baseurl }}/assets/images/licra-cavalluccio-fronte.jpeg" alt="2024 Caketussy Original Lycra Cavalluccio Fronte" style="width: 100%;"> |
+| <img src="{{ site.baseurl }}/assets/images/licra-cavalluccio-fronte.jpeg" alt="2024 Caketussy Original Lycra Cavalluccio Fronte" class="wide-img;"> |
 |:--:|
 | *L’homunculus baffuto in foto è alto 1,85m e indossa una L* |
 

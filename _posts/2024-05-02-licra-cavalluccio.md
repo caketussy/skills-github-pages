@@ -5,12 +5,14 @@ categories: products
 layout: post
 thumbnail: /images/licra-cavalluccio-fronte.jpeg
 ---
-Licra Originale Caketussy® 2024 (1/3)
+Lycra della Linea Originale Caketussy® Edizione Limitata 2024
 
 | <img src="{{ site.baseurl }}/assets/images/licra-cavalluccio-fronte.jpeg" alt="2024 Caketussy Original Lycra Cavalluccio Fronte" class="wide-img;"> |
 |:--:|
 | *L’homunculus baffuto in foto è alto 1,85m e indossa una L* |
 
-Disponibile in taglieee: S, M, L
+Disponibile in taglie: S, M, L
 
-Per ordinarla o per qualisasi altra domanda [scrivici un messaggio](https://ig.me/m/caketussy)!
+Abbiamo prodotto in totale 60 pezzi, non esitate!
+
+Per ordinarla o per altre domande [scrivici un messaggio qui](https://ig.me/m/caketussy)!

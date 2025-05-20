@@ -6,7 +6,7 @@ In questa sezione del nostro blog troverete alcune delle tante collaborazioni ch
 
 {% for post in site.categories.collabs %}
   <div class="post-preview">
-    <img src="{% if post.thumbnail %}{{ post.thumbnail | prepend: site.baseurl }}{% else %}{{ site.baseurl }}/assets/images/default-thumb.jpg{% endif %}" alt="{{ post.title }}">
+    <img src="{% if post.thumbnail %}{{ post.thumbnail | prepend: site.baseurl }}{% else %}{{ site.baseurl }}/assets/images/default-thumb.png{% endif %}" alt="{{ post.title }}">
     <div>
       <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
       <p>{{ post.excerpt }}</p>

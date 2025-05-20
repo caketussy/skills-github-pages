@@ -3,7 +3,7 @@ title: Licra 'Calling Out'
 date: 2025-05-15
 categories: products
 layout: post
-thumbnail: /images/licra-cavalluccio-fronte.jpeg
+thumbnail: /assets/images/licra-cavalluccio-fronte.jpeg
 ---
 Lycra della Linea Originale Caketussy® Edizione Limitata 2024
 

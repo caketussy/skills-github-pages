@@ -5,7 +5,7 @@ categories: products
 layout: post
 thumbnail: /assets/images/licra-cavalluccio-fronte.jpeg
 ---
-Lycra della Linea Originale Caketussy® Edizione Limitata 2024
+**Lycra della Linea Originale Caketussy® Edizione Limitata 2024**
 
 Non c’è niente di tenero in questa lycra. Il Cavalluccio Marino ti farà muovere con la grazia di una macchina da guerra. Piccolo, ma micidiale, è per chi sa come farsi largo tra le onde senza fare una piega. Se pensavi di fare il figurino, dimenticalo. Qui si va a tutto gas, e chi non è pronto può andarsene a casa.
 

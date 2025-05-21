@@ -1,4 +1,29 @@
 theme: minima
-title: caketussy
-author: by leo
+title: caketussy®
+author: made by leo
+email: caketussy@gmail.com
+
+baseurl: /skills-github-pages
+url: https://caketussy.github.io
+permalink: /:categories/:year/:month/:day/:title.html
+
 description: a simple showcase of our products
+
+social_links:
+  instagram: https://instagram.com/caketussy
+  github: https://github.com/caketussy
+
+header_pages:
+- products.md
+- collabs.md
+- about.md
+
+footer_icons:
+- username: caketussy
+  url: https://instagram.com/caketussy
+  icon: assets/images/icon-instagram.svg
+- username: caketussy
+  url: https://youtube.com/@Caketussy
+  icon: assets/images/icon-youtube.svg
+
+  paginate: 5

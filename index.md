@@ -1,4 +1,4 @@
 ---
-title: Products Showcase
+title: Homepage
 ---
-This is a fresh licra and this is a cool hat. Enjoy!
+In questa sezione del nostro blog troverete qualcosa prossimamente.

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    {% include head-includes.html %}
+    <title>{{ page.title }}</title>
+  </head>
+  <body>
+    <header>
+      <!-- Boilerplate header for all posts -->
+      <h1>{{ page.title }}</h1>
+      <p>Published on {{ page.date | date: "%B %d, %Y" }}</p>
+    </header>
+    <main>
+      {{ content }}
+    </main>
+    <footer>
+      <!-- Boilerplate footer for all posts -->
+      <p>&copy; {{ site.title }}</p>
+    </footer>
+  </body>
+</html>

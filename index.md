@@ -1,4 +1,5 @@
 ---
 title: Homepage
 ---
-In questa sezione del nostro blog troverete qualcosa prossimamente.
+
+Ecco l'elenco di tutti i nsotri prodotti, tra quelli delle nostre collezioni e quelli delle nostre collaborazioni.

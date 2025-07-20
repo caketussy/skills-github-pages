@@ -2,7 +2,7 @@
 title: Prodotti
 layout: page
 ---
-In questa sezione del nostro blog troverete tutte le licre della nostra linea originale. Per sapere come averle, contattateci [qui](https://ig.me/m/caketussy)!
+In questa sezione ti presentiamo tutte le licre della nostra linea originale. Per sapere come averle, contattaci [qui](https://ig.me/m/caketussy) o scrivici una mail a [caketussy@gmail.com](mailto:caketussy@gmail.com)!!
 
 {% for post in site.categories.products %}
   <div style="display: flex; align-items: center; margin-bottom: 20px;">

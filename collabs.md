@@ -2,7 +2,7 @@
 title: Collaborazioni
 layout: page
 ---
-In questa sezione del nostro blog troverete alcune delle tante collaborazioni che abbiamo con circoli, eqipaggi, azienda e classi veliche. Se vuoi la tua licra personalizzata contattaci [qui](https://ig.me/m/caketussy)!
+In questa sezione del nostro blog troverete le tante collaborazioni che abbiamo con circoli, eqipaggi, aziende e classi veliche. Se vuoi la tua licra personalizzata contattaci [qui](https://ig.me/m/caketussy) o scrivici una mail a [caketussy@gmail.com](mailto:caketussy@gmail.com)!
 
 {% for post in site.categories.collabs %}
   <div style="display: flex; align-items: center; margin-bottom: 20px;">

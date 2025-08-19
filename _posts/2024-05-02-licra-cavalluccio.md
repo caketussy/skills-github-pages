@@ -1,5 +1,5 @@
 ---
-title: Licra Cavalluccios
+title: Licra Cavalluccio
 date: 2024-05-02
 categories: products
 layout: post

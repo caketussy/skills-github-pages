@@ -16,9 +16,3 @@ Frizzanti dall’ultimo progetto decidono di fare delle magliette per il 2023, m
 
 Cominciano così a fare una linea di lycre propria e varie collaborazioni con circoli, equipaggi, velerie, associazioni e privati. Piano piano le casse ricominciano a riempirsi e per il 2025 decidono di voler fare un Magazine, all’interno del quale raccontare la vela non per regate, non per premi, ma per life style.
 
-STAI SWAG SE SALPI
-
-SAIL WITH ATTITUDE G
-
-CAKETUSSY ATTITUDE KRAFTS EXCELLENCE
-

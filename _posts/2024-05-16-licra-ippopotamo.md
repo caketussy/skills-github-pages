@@ -1,5 +1,5 @@
 ---
-title: Licra 'Take Me Higher'
+title: Licra Ippopotamo
 date: 2024-05-09
 categories: products
 layout: post
@@ -15,4 +15,4 @@ Se pensi che l’ippopotamo sia solo grande e pesante, ti sbagli. Con la lycra I
 
 Disponibile in taglie: S, M, L, XL
 
-Abbiamo prodotto esclusivamente 60 capi.
+Abbiamo prodotto esclusivamente 35 capi.

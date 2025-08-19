@@ -1,5 +1,5 @@
 ---
-title: Licra 'Calling Out'
+title: Licra Cavalluccios
 date: 2024-05-02
 categories: products
 layout: post
@@ -15,4 +15,4 @@ Non c’è niente di tenero in questa lycra. Il Cavalluccio Marino ti farà muov
 
 Disponibile in taglie: S, M, L, XL
 
-Abbiamo prodotto esclusivamente 60 capi.
+Abbiamo prodotto esclusivamente 35 capi.

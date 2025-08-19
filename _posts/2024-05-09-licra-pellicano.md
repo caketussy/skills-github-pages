@@ -1,5 +1,5 @@
 ---
-title: Licra 'Groovin'
+title: Licra Pellicano
 date: 2024-05-09
 categories: products
 layout: post

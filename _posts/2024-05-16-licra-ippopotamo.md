@@ -13,6 +13,6 @@ Se pensi che l’ippopotamo sia solo grande e pesante, ti sbagli. Con la lycra I
 |:--:|
 | *L’homunculus baffuto in foto è alto 1,85m e indossa una L* |
 
-Disponibile in taglie: S, M, L
+Disponibile in taglie: S, M, L, XL
 
 Abbiamo prodotto esclusivamente 60 capi.

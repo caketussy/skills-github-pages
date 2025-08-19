@@ -13,6 +13,6 @@ Un pellicano non è mai stato così letale. La licra Pellicano è fatta per chi 
 |:--:|
 | *L’homunculus baffuto in foto è alto 1,85m e indossa una L* |
 
-Disponibile in taglie: S, M, L
+Disponibile in taglie: S, M, L, XL
 
 Abbiamo prodotto esclusivamente 35 capi.

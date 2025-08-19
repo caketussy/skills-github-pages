@@ -13,6 +13,6 @@ Non c’è niente di tenero in questa lycra. Il Cavalluccio Marino ti farà muov
 |:--:|
 | *L’homunculus baffuto in foto è alto 1,85m e indossa una L* |
 
-Disponibile in taglie: S, M, L
+Disponibile in taglie: S, M, L, XL
 
 Abbiamo prodotto esclusivamente 60 capi.

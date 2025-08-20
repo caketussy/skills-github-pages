@@ -1,13 +1,14 @@
 theme: minima
 title: caketussy®
-author: made by leo
+author: leo
 email: caketussy@gmail.com
 
 baseurl: /skills-github-pages
 url: https://caketussy.github.io
 permalink: /:categories/:year/:month/:day/:title.html
 
-description: a simple showcase of our products
+description: una semplice vetrina dei nostri prodotti
+lang: it
 
 social_links:
   instagram: https://instagram.com/caketussy

@@ -9,3 +9,11 @@
     height: auto;
     margin-right: 20px;
 }
+
+body {
+    background-color: #a10e0e; /* Change to any color you like */
+    /* Or use an image: */
+    /* background-image: url('/assets/images/background.jpg'); */
+    /* background-size: cover; */
+    /* background-repeat: no-repeat; */
+}

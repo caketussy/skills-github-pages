@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    {% include head-includes.html %}
+    <title>{{ page.title }}</title>
+  </head>
+  <body>
+    <header>
+      <!-- Boilerplate header for all posts -->
+      <h1>{{ page.title }}</h1>
+      <p>Published on {{ page.date | date: "%B %d, %Y" }}</p>
+    </header>
+    <main>
+      {{ content }}
+      <table>
+        <tr>
+          <td>Disponibile in taglie:</td>
+          <td>S, M, L</td>
+        </tr>
+      </table>
+      <p>Per ordinarla o per altre domande [scrivici un messaggio qui](https://ig.me/m/caketussy) o una mail a [caketussy@gmail.com](mailto:caketussy@gmail.com)!</p>
+    </main>
+    <footer>
+      <!-- Boilerplate footer for all posts -->
+      <p>&copy; {{ site.title }}</p>
+    </footer>
+  </body>
+</html>
